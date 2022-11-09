@@ -7,6 +7,7 @@ import { useNavigate } from 'react-router-dom'
 
 import { toast } from 'react-toastify';
 import { Logo } from '../../components/Logo';
+import { Input } from '../../components/Input';
 
 export default function LogIn() {
     const [email, setEmail] = useState("");
@@ -37,16 +38,17 @@ export default function LogIn() {
             <Logo />
 
             <form className='form' onSubmit={handleLogin}>
-                <input type='email' 
+               <Input 
+                type='email' 
                 placeholder='Digite seu e-mail...' 
                 value={email} 
                 onChange={(e) => setEmail(e.target.value)}
-                />
-                <input type='password' 
-                placeholder='********' 
-                autoComplete='on'
-                value={password}
-                onChange={(e) => setPassword(e.target.value)}
+               />
+                <Input type='password' 
+                 placeholder='********' 
+                 autoComplete='on'
+                 value={password}
+                 onChange={(e) => setPassword(e.target.value)}
                 />
 
 
