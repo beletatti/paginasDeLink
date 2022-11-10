@@ -7,7 +7,7 @@ Aplicação desenvolvida 10/11/2022
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ![WhatsApp Image 2022-11-10 at 15 11 43](https://user-images.githubusercontent.com/48281531/201175428-6e989b70-7ad8-47fe-a99f-3006b75351ab.jpeg)
